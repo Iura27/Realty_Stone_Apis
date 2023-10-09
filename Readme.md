@@ -30,7 +30,7 @@ Para manter uma visão clara de todos os aspectos do projeto, desenvolvemos um m
 
 ## 🚀 Passo a Passo
 
-* Clonar o repositório "RealtyStone_GianVancini_Apis" do GitHub
+* Clonar o repositório "Realty_Stone_Apis" do GitHub
 
 * No Postman, vai em file > import (ou pressione Ctrl + O) e busque o arquivo ServeRest.postman_collection.json dentro da pasta requisicoes.
 
