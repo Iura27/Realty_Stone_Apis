@@ -20,7 +20,7 @@ Para manter uma visão clara de todos os aspectos do projeto, desenvolvemos um m
 ## 👨‍💻 Ferramentas Utilizadas
 
 * Postman
-* VsCode
+* Xmind
 * Git e GitHub
 
 
